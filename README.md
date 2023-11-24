@@ -13,4 +13,4 @@ After applying CRISP-DM techniques to build a model for our automobile client, w
 - Sedans and SUVs are the most commonly sold types of cars.
 - It's worth noting that new or recent year cars are usually priced higher than vintage cars.
 
-#### Python notebook link - Practical app Sree 11.1.ipynb
+#### Python notebook link - Practical app 11.1.ipynb
